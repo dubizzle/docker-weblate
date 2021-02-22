@@ -8,7 +8,7 @@ oauthlib==1.0.3
 python-dateutil==2.5.0
 python-openid==2.2.5
 python-social-auth==0.2.14
-requests==2.9.1
+requests==2.20.0
 requests-oauthlib==0.6.1
 six==1.10.0
 translate-toolkit==1.13.0
