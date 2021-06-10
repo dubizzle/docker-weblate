@@ -1,4 +1,4 @@
-Django==1.8.10
+Django==2.2.24
 PyJWT==1.4.0
 Whoosh==2.7.2
 argparse==1.4.0
